@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { CATEGORIES } from "@/lib/categories";
+import SearchBar from "@/components/SearchBar";
 
 export default function Header() {
   return (
@@ -17,17 +18,23 @@ export default function Header() {
           </span>
         </div>
 
-        <nav className="flex items-center gap-5 overflow-x-auto border-t border-border py-3">
-          {CATEGORIES.map((category) => (
-            <Link
-              key={category.slug}
-              href={`/category/${category.slug}`}
-              className="shrink-0 text-sm font-medium text-muted transition-colors hover:text-foreground"
-            >
-              {category.name}
-            </Link>
-          ))}
-        </nav>
+        <div className="flex items-center gap-3 border-t border-border">
+          <nav className="flex flex-1 items-center gap-5 overflow-x-auto py-3">
+            {CATEGORIES.map((category) => (
+              <Link
+                key={category.slug}
+                href={`/category/${category.slug}`}
+                className="shrink-0 text-sm font-medium text-muted transition-colors hover:text-foreground"
+              >
+                {category.name}
+              </Link>
+            ))}
+          </nav>
+
+          <div className="shrink-0">
+            <SearchBar />
+          </div>
+        </div>
       </div>
     </header>
   );

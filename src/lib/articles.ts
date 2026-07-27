@@ -43,6 +43,22 @@ export function getAllArticlesMeta(): ArticleMeta[] {
   return articles.sort((a, b) => (a.date < b.date ? 1 : -1));
 }
 
+/**
+ * Meta plus the plain-text body of every article, used to build the
+ * full-text search index. The body has its Markdown whitespace collapsed
+ * so a single word never straddles a line break.
+ */
+export function getAllArticlesForSearch(): Array<ArticleMeta & { body: string }> {
+  const filenames = fs
+    .readdirSync(ARTICLES_DIR)
+    .filter((f) => f.endsWith(".md"));
+  return filenames.map((filename) => {
+    const { meta, content } = readArticleFile(filename);
+    const body = content.replace(/\s+/g, " ").trim();
+    return { ...meta, body };
+  });
+}
+
 export function getArticlesByCategory(category: CategorySlug): ArticleMeta[] {
   return getAllArticlesMeta().filter(
     (article) => article.category === category,
