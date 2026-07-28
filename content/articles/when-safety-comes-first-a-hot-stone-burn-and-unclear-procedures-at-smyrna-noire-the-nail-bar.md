@@ -4,7 +4,7 @@ slug: "when-safety-comes-first-a-hot-stone-burn-and-unclear-procedures-at-smyrna
 excerpt: "A party of six had a visit that turned a spa day into a safety lesson: a hot-stone pedicure left a burn mark, an apology never came, and a front-desk answer of \"it depends\" revealed the need for clear, consistent procedures."
 category: "beauty-wellness"
 date: "2026-05-25"
-coverImage: "https://images.unsplash.com/photo-1664643411326-6c589531be3c?q=80&w=1600&auto=format&fit=crop"
+coverImage: "https://images.unsplash.com/photo-1630843599725-32ead7671867?q=80&w=1600&auto=format&fit=crop"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---
