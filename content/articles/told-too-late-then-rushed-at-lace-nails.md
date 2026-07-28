@@ -4,7 +4,7 @@ slug: "told-too-late-then-rushed-at-lace-nails"
 excerpt: "A client arrived ten minutes late, wasn't told of any problem at check-in, then learned mid-pedicure that her manicure might not happen. She gave up the rest of her pedicure to make time, and the rushed acrylics that followed were thick and uneven. A look at communicating early and not letting a rush lower the work."
 category: "beauty-wellness"
 date: "2025-09-28"
-coverImage: "https://images.unsplash.com/photo-1697771662409-e670b8aa2bdb?q=80&w=1600&auto=format&fit=crop"
+coverImage: "https://images.unsplash.com/photo-1659391542239-9648f307c0b1?q=80&w=1600&h=900&fit=crop&auto=format"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---
