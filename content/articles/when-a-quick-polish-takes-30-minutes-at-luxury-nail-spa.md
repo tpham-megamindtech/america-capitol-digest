@@ -4,7 +4,7 @@ slug: "when-a-quick-polish-takes-30-minutes-at-luxury-nail-spa"
 excerpt: "A client came in for a quick polish change and watched the technician stay on her phone the whole time, stretching a 10-minute service past 30. The technician had a real reason — but the better move was to hand the client to a colleague. A look at focus and emergency hand-offs."
 category: "beauty-wellness"
 date: "2025-10-25"
-coverImage: "https://images.unsplash.com/photo-1517837317028-6ce34fd27c34?q=80&w=1600&auto=format&fit=crop"
+coverImage: "https://images.unsplash.com/photo-1571290274554-6a2eaa771e5f?q=80&w=1600&auto=format&fit=crop"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---
