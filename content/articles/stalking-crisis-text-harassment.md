@@ -4,7 +4,7 @@ slug: "stalking-crisis-text-harassment"
 excerpt: "A customer service bulletin examining customer privacy, professional boundaries, and service recovery in the beauty industry."
 category: "beauty-wellness"
 date: "2025-09-25"
-coverImage: "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1693776528429-f73dd0586329?q=80&w=1600&auto=format&fit=crop"
 imageCredit: "Unsplash"
 ---
 
