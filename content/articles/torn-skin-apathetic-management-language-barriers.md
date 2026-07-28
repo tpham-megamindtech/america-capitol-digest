@@ -4,7 +4,7 @@ slug: "torn-skin-apathetic-management-language-barriers"
 excerpt: "A customer service bulletin examining physical safety, communication challenges, and crisis management following a reported salon injury."
 category: "beauty-wellness"
 date: "2026-06-30"
-coverImage: "https://images.unsplash.com/photo-1519014816548-bf5fe059798b?auto=format&fit=crop&w=1200&h=800&q=80"
+coverImage: "https://images.unsplash.com/photo-1607779097040-26e80aa78e66?q=80&w=1600&auto=format&fit=crop"
 imageCredit: "Unsplash"
 ---
 
