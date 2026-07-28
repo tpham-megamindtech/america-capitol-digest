@@ -4,7 +4,7 @@ slug: "double-booked-and-left-waiting-at-envy-nails-and-spa-downtown-orlando"
 excerpt: "A loyal client of over a year left work early to make her appointment on time, then waited 30 minutes because her slot had effectively been double-booked — while the manager stayed silent. A case study in protecting booked times and stepping up when things go wrong."
 category: "beauty-wellness"
 date: "2025-10-21"
-coverImage: "https://images.unsplash.com/photo-1607779097040-26e80aa78e66?q=80&w=1600&auto=format&fit=crop"
+coverImage: "https://images.unsplash.com/photo-1643648854897-7b5845b4c04c?q=80&w=1600&auto=format&fit=crop"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---
