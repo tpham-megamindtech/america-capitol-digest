@@ -4,7 +4,7 @@ slug: "skipped-in-the-waiting-area-fair-queue-management-at-goddess-nails-salon"
 excerpt: "A client who checked in and waited her turn watched two walk-ins get seated ahead of her, and left feeling she'd been passed over because of her race and appearance. A look at why fair, clearly communicated queue management protects both clients and a salon's name."
 category: "beauty-wellness"
 date: "2025-10-28"
-coverImage: "https://images.unsplash.com/photo-1632345031435-8727f6897d53?q=80&w=1600&auto=format&fit=crop"
+coverImage: "https://images.unsplash.com/photo-1457972729786-0411a3b2b626?q=80&w=1600&auto=format&fit=crop"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---
