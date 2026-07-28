@@ -4,7 +4,7 @@ slug: "multitasking-crisis-blaming-the-client"
 excerpt: "A customer service bulletin examining multitasking, service quality, and customer communication in beauty and wellness businesses."
 category: "beauty-wellness"
 date: "2026-05-27"
-coverImage: "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1633681926022-84c23e8cb2d6?q=80&w=1600&auto=format&fit=crop"
 imageCredit: "Unsplash"
 ---
 
