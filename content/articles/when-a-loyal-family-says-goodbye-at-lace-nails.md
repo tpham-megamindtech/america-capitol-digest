@@ -4,7 +4,7 @@ slug: "when-a-loyal-family-says-goodbye-at-lace-nails"
 excerpt: "A family that used to love Lace Nails is walking away after nails that fall off within days, fixes met with pushback and blame aimed at their teenage daughters, and a growing sense of being taken advantage of. A look at retention, complaint handling, and treating young clients with respect."
 category: "beauty-wellness"
 date: "2025-10-18"
-coverImage: "https://images.unsplash.com/photo-1709491626799-0d36e6a38ab9?q=80&w=1600&auto=format&fit=crop"
+coverImage: "https://images.unsplash.com/photo-1652990337162-fa84a588d843?q=80&w=1600&h=900&fit=crop&auto=format"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---
