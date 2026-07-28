@@ -4,7 +4,7 @@ slug: "rushed-because-they-were-busy-at-ventura-nail-spa"
 excerpt: "A returning client's pedicure went wrong on a busy day — a nail cut too short, real pain, and a rushed, rough service. Her own takeaway says it all: she'd gladly have waited longer for the job to be done right. A case study in pacing and protecting quality under pressure."
 category: "beauty-wellness"
 date: "2026-07-10"
-coverImage: "https://images.unsplash.com/photo-1519419451778-14599a49ec41?q=80&w=1600&auto=format&fit=crop"
+coverImage: "https://images.unsplash.com/photo-1519415510236-718bdfcd89c8?q=80&w=1600&auto=format&fit=crop"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---
