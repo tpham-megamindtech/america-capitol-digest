@@ -1,10 +1,10 @@
 ---
-title: "The Nail Garden: Half on the Check, Half in Cash: The Payroll Habit the IRS Takes Most Seriously"
+title: "Half on the Check, Half in Cash: The Payroll Habit the IRS Takes Most Seriously | Tif Top Beauty Nails"
 slug: "nail-salon-cash-wages-taxes"
 excerpt: "Paying part of a worker's wages in cash off the books can feel like a win for everyone, but of all the habits in this series it's the one the IRS treats most seriously. Here is why it raises concern, and why it quietly hurts your staff too."
 category: "taxes-irs"
 date: "2026-04-27"
-coverImage: "https://images.unsplash.com/photo-1580048915913-4f8f5cb481c4?q=80&w=1600&h=900&fit=crop&auto=format"
+coverImage: "https://images.unsplash.com/photo-1671469897468-af5f1d47f312?q=80&w=1600&h=900&fit=crop&auto=format"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---
