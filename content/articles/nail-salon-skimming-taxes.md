@@ -4,7 +4,7 @@ slug: "nail-salon-skimming-taxes"
 excerpt: "Charging part of a service on the card and quietly collecting the rest off the books has a name, skimming, and it is one of the surest ways to raise concern with the IRS. Here is why it is riskier than it looks, and what honest owners do instead."
 category: "taxes-irs"
 date: "2026-04-23"
-coverImage: "https://images.unsplash.com/photo-1556742031-c6961e8560b0?q=80&w=1600&h=900&fit=crop&auto=format"
+coverImage: "https://images.unsplash.com/photo-1556740772-1a741367b93e?q=80&w=1600&h=900&fit=crop&auto=format"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---
