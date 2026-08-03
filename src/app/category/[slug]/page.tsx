@@ -7,6 +7,10 @@ import type { CategorySlug } from "@/types/article";
 
 const PAGE_SIZE = 9;
 
+// Always render from the current content directory so newly added articles
+// appear immediately, without a stale Full Route Cache after a deploy.
+export const dynamic = "force-dynamic";
+
 export function generateStaticParams() {
   return CATEGORIES.map((category) => ({ slug: category.slug }));
 }

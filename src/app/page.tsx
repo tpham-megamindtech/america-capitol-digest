@@ -3,6 +3,9 @@ import CategoryBlock from "@/components/CategoryBlock";
 import { CATEGORIES } from "@/lib/categories";
 import { getFeaturedArticle, getArticlesByCategory } from "@/lib/articles";
 
+// Render on each request so the newest articles always surface on the homepage.
+export const dynamic = "force-dynamic";
+
 export default function Home() {
   const featured = getFeaturedArticle();
 
