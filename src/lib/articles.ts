@@ -28,11 +28,18 @@ function readArticleFile(filename: string): {
       excerpt: data.excerpt,
       category: data.category as CategorySlug,
       coverImage: data.coverImage,
-      date: data.date,
+      // Normalize to a "YYYY-MM-DD" string. An unquoted YAML date parses as a
+      // Date object; mixing Date and string values breaks date sorting.
+      date: normalizeDate(data.date),
       imageCredit: data.imageCredit,
       featured: data.featured ?? false,
     },
   };
+}
+
+function normalizeDate(value: unknown): string {
+  if (value instanceof Date) return value.toISOString().slice(0, 10);
+  return typeof value === "string" ? value : String(value ?? "");
 }
 
 export function getAllArticlesMeta(): ArticleMeta[] {
@@ -40,7 +47,11 @@ export function getAllArticlesMeta(): ArticleMeta[] {
     .readdirSync(ARTICLES_DIR)
     .filter((f) => f.endsWith(".md"));
   const articles = filenames.map((filename) => readArticleFile(filename).meta);
-  return articles.sort((a, b) => (a.date < b.date ? 1 : -1));
+  // Newest first. A proper comparator (returns 0 for equal dates) keeps the
+  // sort correct and stable across the full set of articles.
+  return articles.sort((a, b) =>
+    a.date < b.date ? 1 : a.date > b.date ? -1 : 0,
+  );
 }
 
 /**
