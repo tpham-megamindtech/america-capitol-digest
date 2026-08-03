@@ -5,7 +5,7 @@ excerpt: "A bipartisan continuing resolution keeps federal agencies funded throu
 category: "government-politics"
 date: "2026-07-18"
 coverImage: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=1600&auto=format&fit=crop"
-featured: true
+featured: false
 imageCredit: "Photo: Unsplash/Louis Velazquez"
 ---
 

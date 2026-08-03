@@ -5,7 +5,7 @@ excerpt: "As the House left town and the Senate worked through a light week of v
 category: "government-politics"
 date: "2026-07-31"
 coverImage: "https://images.pexels.com/photos/20417783/pexels-photo-20417783.jpeg?auto=compress&cs=tinysrgb&w=1600"
-featured: false
+featured: true
 imageCredit: "Photo: Pexels"
 ---
 
